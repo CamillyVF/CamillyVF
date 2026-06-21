@@ -2,7 +2,6 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Ciencia da computação no Estacio de Riberão Preto.
-- 🌱 Aprendendo mais sobre {tecnologias que você está aprendendo}.
 
 ## Minhas Skills
 
@@ -34,18 +33,6 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)]([LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/camilly-costa/))
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kaah23.dp@gmail.com)](mailto:kaah23.dp@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)]([LINK-DO-SEU-GITHUB](https://github.com/CamillyVF))
-
-###
-
-<div align="left">
-  <a href="mailto:kaah23.dp@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/camilly-costa-4140a5245" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-</div>
-###
+[![Linkedin](https://img.shields.io/badge/-CamillyCosta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/camilly-costa/)](https://www.linkedin.com/in/camilly-costa/)
+[![Gmail Badge](https://img.shields.io/badge/-kaah23.dp@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kaah23.dp@gmail.com)](mailto:kaah23.dp@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/CamillyVF)
